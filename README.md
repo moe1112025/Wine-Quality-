@@ -89,7 +89,6 @@ Streamlit prints a local URL in the terminal (normally `http://localhost:8501`).
 
 ```text
 05_wine_quality_app/
-├── .venv/
 ├── wine_quality_app.py
 ├── requirements.txt
 ├── README.md
